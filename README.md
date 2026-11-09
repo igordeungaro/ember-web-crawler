@@ -920,3 +920,12 @@ This project is primarily licensed under the GNU Affero General Public License v
     ↑ Back to Top ↑
   </a>
 </p>
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: GNU Affero General Public License v3.0 (mantida sem alterações).
+
+**Fonte original:** https://github.com/firecrawl/firecrawl
